@@ -1,6 +1,6 @@
 ## 👋 Hey Hi, Welcome to my GitHub profile I'm Naveen Siriseti
 
-About me ❓ ⏩ 👀 I’m currently looking for database Engineer/Data Analyst role ⏩ 📚 Proficient in utilizing tools like SQL, ORACLE, SQL LITE, ADVANCED EXCEL POWER BI  ⏩ 📫 How to reach me contact Ⓜ naveensiriseti@gmail.com
+About me ❓ ⏩ 👀 I’m currently looking for database Engineer/Data Analyst role ⏩ 📚 Proficient in utilizing tools like SQL, ORACLE, SQL LITE, ADVANCED EXCEL, POWER BI  ⏩ 📫 How to reach me contact Ⓜ naveensiriseti@gmail.com
 
 <!--
 **NaveenNaviee/NaveenNaviee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
